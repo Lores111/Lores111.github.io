@@ -1,0 +1,20 @@
+#header{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+
+}
+
+.bg-main{
+    background-color: #1c2f49;
+}
+
+.bg-secondary{
+    background-color: #1f3749;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}

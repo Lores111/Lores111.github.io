@@ -1,0 +1,63 @@
+#header{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+#main{
+    font-family: 'Lato', sans-serif;
+}
+
+#title{
+
+}
+
+.bg-c-blue{
+    background-color: #0B4F6C;
+}
+
+.bg-c-cyan{
+    background-color: #01baef;
+}
+
+.bg-c-green{
+    background-color: #20BF55;
+}
+
+.bg-c-white{
+    background-color: #FBFBFF;
+}
+
+.bg-c-silver{
+    background-color: #303030;
+}
+
+.c-grey{
+    color: #767676;
+}
+
+#footerbrand{
+    display: block;
+    padding: .5rem 1rem;
+}
+
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.r1 {
+    font-size: calc(100% + 1vw + 1vh);
+}
+
+.r2 {
+    font-size: calc(100% + 1vw + 1vh);
+}
+
+.r3 {
+    font-size: calc(100% + 0.25vw + 0.25vh);
+}
+
+.border-custom{
+    border-color: #767676;
+}
